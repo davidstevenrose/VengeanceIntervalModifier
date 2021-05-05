@@ -21,8 +21,8 @@ Open the console using `Ctrl+Alt+~`. Use the command `set_vengeance_period <time
 The time argument must be an integer between 1 and 1200 seconds.
 
 ## Contact
-- Issue Page: 
-- Discord: `Chen#1218`
+- Issue Page: https://github.com/davidstevenrose/VengeanceIntervalModifier/issues
+- Discord: `Shamus#1865`
 - RoR2 Modding Server: https://discord.com/invite/5MbXZvd
 
 ## Changelog
