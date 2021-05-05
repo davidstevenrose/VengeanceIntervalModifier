@@ -8,7 +8,7 @@ Change the time of how often your evil doppelganger spawns with Vengeance enable
 
 Use **[r2modman](https://thunderstore.io/package/ebkr/r2modman/)** mod manager to install this mod.
 
-Without the use of a mod manager, the DLL can be obtained from **[Thunderstore](https://thunderstore.io/your/mod/link/)**. Place the DLL in its own folder within your `/plugins` folder.
+Without the use of a mod manager, the DLL can be obtained from **[Thunderstore](https://thunderstore.io/package/Shamus/Vengeance_Interval_Modifier/)**. Place the DLL in its own folder within your `/plugins` folder.
 
 ## Usage
 ### Config file
